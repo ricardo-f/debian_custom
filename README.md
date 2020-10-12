@@ -7,7 +7,7 @@ What is installed?
 1. [Xorg](https://wiki.debian.org/Xorg)
 2. [Openbox](https://wiki.debian.org/Openbox)
 3. [SLiM](https://wiki.debian.org/Openbox)
-4. [Suckeless-tools](https://suckless.org/)
+4. [Suckless-tools](https://suckless.org/)
 5. [FEH](https://feh.finalrewind.org/)
 6. [Conky-all](https://packages.debian.org/buster/conky-all)
 7. [X11-Utils](https://packages.debian.org/pt/buster/x11-utils)
