@@ -13,6 +13,7 @@ apt install iceweasel -y
 apt install alpine -y
 apt install curl -y
 apt install unzip -y
+apt install sudo -y
 curl -sS https://download.spotify.com/debian/pubkey_0D811D58.gpg | apt-key add -
 echo "deb http://repository.spotify.com stable non-free" | tee /etc/apt/sources.list.d/spotify.list
 apt update
