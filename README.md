@@ -20,6 +20,7 @@ What is installed?
 14. [Spotify](https://www.spotify.com/br/download/linux/)
 15. [Curl](https://packages.debian.org/buster/curl)
 16. [Unzip](https://packages.debian.org/buster/unzip)
+17. [Venv](https://docs.python.org/3/library/venv.html)
 ---
 ## How to use:
 
