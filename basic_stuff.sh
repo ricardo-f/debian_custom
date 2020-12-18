@@ -15,6 +15,7 @@ apt install curl -y
 apt install unzip -y
 apt install sudo -y
 apt install python3-venv -y
+apt install awscli -y
 curl -sS https://download.spotify.com/debian/pubkey_0D811D58.gpg | apt-key add -
 echo "deb http://repository.spotify.com stable non-free" | tee /etc/apt/sources.list.d/spotify.list
 apt update
