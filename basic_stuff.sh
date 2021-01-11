@@ -9,7 +9,7 @@ apt install xbindkeys -y
 apt install terminator -y
 apt install tree -y
 apt install pcmanfm -y
-apt install iceweasel -y
+apt install firefox-esr -y
 apt install alpine -y
 apt install curl -y
 apt install unzip -y
