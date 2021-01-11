@@ -15,7 +15,7 @@ What is installed?
 9. [Terminator](https://packages.debian.org/pt-br/buster/terminator)
 10. [Tree](https://packages.debian.org/buster/tree)
 11. [PCManFM](https://packages.debian.org/buster/utils/pcmanfm)
-12. [Iceweasel](https://wiki.debian.org/Firefox)
+12. [Firefox ESR](https://packages.debian.org/buster/firefox-esr)
 13. [Alpine Terminal Mail Client](https://packages.debian.org/buster/alpine)
 14. [Spotify](https://www.spotify.com/br/download/linux/)
 15. [Curl](https://packages.debian.org/buster/curl)
