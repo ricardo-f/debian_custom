@@ -14,6 +14,8 @@ apt install alpine -y
 apt install curl -y
 apt install unzip -y
 apt install sudo -y
+apt install alsa-utils -y
+apt install alsamixergui -y
 apt install python3-venv -y
 apt install awscli -y
 apt-get install software-properties-common -y
