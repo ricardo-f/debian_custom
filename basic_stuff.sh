@@ -10,7 +10,6 @@ apt install terminator -y
 apt install tree -y
 apt install pcmanfm -y
 apt install firefox-esr -y
-apt install alpine -y
 apt install curl -y
 apt install unzip -y
 apt install sudo -y
