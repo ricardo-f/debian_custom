@@ -16,11 +16,12 @@ What is installed?
 10. [Tree](https://packages.debian.org/buster/tree)
 11. [PCManFM](https://packages.debian.org/buster/utils/pcmanfm)
 12. [Firefox ESR](https://packages.debian.org/buster/firefox-esr)
-13. [Alpine Terminal Mail Client](https://packages.debian.org/buster/alpine)
-14. [Spotify](https://www.spotify.com/br/download/linux/)
-15. [Curl](https://packages.debian.org/buster/curl)
-16. [Unzip](https://packages.debian.org/buster/unzip)
-17. [Venv](https://docs.python.org/3/library/venv.html)
+13. [Spotify](https://www.spotify.com/br/download/linux/)
+14. [Curl](https://packages.debian.org/buster/curl)
+15. [Unzip](https://packages.debian.org/buster/unzip)
+16. [Venv](https://docs.python.org/3/library/venv.html)
+17. [VIM](https://packages.debian.org/buster/vim)
+18. [Kite](https://www.kite.com/)
 ---
 ## How to use:
 
