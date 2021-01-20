@@ -16,6 +16,7 @@ apt install sudo -y
 apt install python3-venv -y
 apt install awscli -y
 apt install vim -y
+apt install wicd -y
 bash -c "$(wget -q -O - https://linux.kite.com/dls/linux/current)"
 apt-get install software-properties-common -y
 curl -sS https://download.spotify.com/debian/pubkey_0D811D58.gpg | apt-key add -
