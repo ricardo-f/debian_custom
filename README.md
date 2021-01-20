@@ -22,6 +22,7 @@ What is installed?
 16. [Venv](https://docs.python.org/3/library/venv.html)
 17. [VIM](https://packages.debian.org/buster/vim)
 18. [Kite](https://www.kite.com/)
+19. [AWS Cli](https://packages.debian.org/buster/awscli)
 ---
 ## How to use:
 
