@@ -23,6 +23,7 @@ What is installed?
 17. [VIM](https://packages.debian.org/buster/vim)
 18. [Kite](https://www.kite.com/)
 19. [AWS Cli](https://packages.debian.org/buster/awscli)
+20. [WICD](https://packages.debian.org/pt-br/buster/wicd)
 ---
 ## How to use:
 
