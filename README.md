@@ -24,6 +24,7 @@ What is installed?
 18. [Kite](https://www.kite.com/)
 19. [AWS Cli](https://packages.debian.org/buster/awscli)
 20. [WICD](https://packages.debian.org/pt-br/buster/wicd)
+21. [Atom](https://atom.io/docs)
 ---
 ## How to use:
 
