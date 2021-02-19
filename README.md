@@ -21,10 +21,9 @@ What is installed?
 15. [Unzip](https://packages.debian.org/buster/unzip)
 16. [Venv](https://docs.python.org/3/library/venv.html)
 17. [VIM](https://packages.debian.org/buster/vim)
-18. [Kite](https://www.kite.com/)
-19. [AWS Cli](https://packages.debian.org/buster/awscli)
-20. [WICD](https://packages.debian.org/pt-br/buster/wicd)
-21. [Atom](https://atom.io/docs)
+18. [AWS Cli](https://packages.debian.org/buster/awscli)
+19. [WICD](https://packages.debian.org/pt-br/buster/wicd)
+20. [Atom](https://atom.io/docs)
 ---
 ## How to use:
 
