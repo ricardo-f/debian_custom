@@ -23,7 +23,7 @@ What is installed?
 17. [VIM](https://packages.debian.org/buster/vim)
 18. [AWS Cli](https://packages.debian.org/buster/awscli)
 19. [WICD](https://packages.debian.org/pt-br/buster/wicd)
-20. [Atom](https://atom.io/docs)
+20. [Vundle](https://github.com/VundleVim/Vundle.vim)
 ---
 ## How to use:
 
