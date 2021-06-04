@@ -17,10 +17,7 @@ apt install python3-venv -y
 apt install awscli -y
 apt install vim -y
 apt install wicd -y
-wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | apt-key add
-sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
-apt-get update
-apt-get install atom -y
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 apt-get install software-properties-common -y
 curl -sS https://download.spotify.com/debian/pubkey_0D811D58.gpg | apt-key add -
 echo "deb http://repository.spotify.com stable non-free" | tee /etc/apt/sources.list.d/spotify.list
